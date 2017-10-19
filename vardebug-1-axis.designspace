@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<designspace format="3">
+  <axes>
+    <axis default="1000" maximum="1000" minimum="0" name="outer" tag="outr">
+      <labelname xml:lang="en">Outer</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source familyname="Vardebug 1" filename="sources/Vardebug-master-00.ufo" name="00">
+      <groups copy="1" />
+      <features copy="1" />
+      <info copy="1" />
+      <location>
+        <dimension name="outer" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Vardebug 1" filename="sources/Vardebug-master-01.ufo" name="01">
+      <location>
+        <dimension name="outer" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Vardebug 1" filename="instances/Vardebug-master-01.ufo" stylename="01">
+      <info />
+      <kerning />
+      <location>
+        <dimension name="outer" xvalue="1000"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>
