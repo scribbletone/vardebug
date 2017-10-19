@@ -2,7 +2,7 @@
 
 3-axis variable font. It's a double inline, with each axis controlling the weight of the outside shape, the middle shape, and the inside shape. Each layer should disappear, so that it can be used as an outline, completely filled, inline, or double inline.
 ![3-axis](/images/axis-description.png)
-![needs to disappear](/images/need-to-disappear)
+![needs to disappear](/images/need-to-disappear.png)
 
 
 ### The problem
